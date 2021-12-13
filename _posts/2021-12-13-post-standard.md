@@ -14,7 +14,7 @@ html {
 	-webkit-print-color-adjust: exact;
 }
 
-html,
+<!-- html,
 body {
 	margin: 0;
 	padding: 0;
@@ -30,7 +30,7 @@ body {
 body {
 	line-height: 1.5;
 	white-space: pre-wrap;
-}
+} -->
 
 a,
 a.visited {
