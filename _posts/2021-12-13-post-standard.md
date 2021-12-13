@@ -55,7 +55,7 @@ function third() {
 first(); // third second first
 ```
 
-![Untitled](%E1%84%92%E1%85%A2%E1%86%A8%E1%84%89%E1%85%B5%E1%86%B7%20%E1%84%80%E1%85%A2%E1%84%82%E1%85%A7%E1%86%B7%20%E1%84%8B%E1%85%B5%E1%84%92%E1%85%A2%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5%2062307489c6fb4f51a6d959a42ba4d170/Untitled%201.png)
+![Untitled](https://www.notion.so/a5f6c4521f454be087ee9896d9898d78#62307489c6fb4f51a6d959a42ba4d170)
 
 ⇒ anonymous : 처음 실행 시 전역 컨텍스트(global context) 의미 
 
