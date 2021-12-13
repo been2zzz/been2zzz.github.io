@@ -16,7 +16,7 @@ excerpt_separator: "<!--more-->"
 - 특정 언어로 만든 프로그램들을 실행할 수 있는 환경을 뜻함 (자바스크립트 실행기)
 - Node.js는  Chrome V8 Javascript 엔진으로 빌드
 
-![노드의 내부 구조](./image/211213/Untitled1.png)
+![노드의 내부 구조](./image/211213/Untitled.png)
 
 노드의 내부 구조
 
@@ -55,7 +55,7 @@ function third() {
 first(); // third second first
 ```
 
-![Untitled](https://www.notion.so/a5f6c4521f454be087ee9896d9898d78#62307489c6fb4f51a6d959a42ba4d170)
+![Untitled](./image/211213/Untitled1.png)
 
 ⇒ anonymous : 처음 실행 시 전역 컨텍스트(global context) 의미 
 
@@ -75,7 +75,7 @@ console.log('end');
 - 백그라운드: setTimeout  같은 타이머나 이벤트 리스너들이 대기하는 곳, 여러 작업 동시 실행 가능
 - 태스크 큐: 이벤트 발생 후, 백그라운드에서 태스크 큐로 타이머나 이벤트 리스너의 콜백함수를 보냄. 정해진 순서대로 콜백들이 줄을 서 있어 콜백 큐라고도 부름.
 
-![setTimeout ⇒ anonymous ⇒ run 순으로 실행](%E1%84%92%E1%85%A2%E1%86%A8%E1%84%89%E1%85%B5%E1%86%B7%20%E1%84%80%E1%85%A2%E1%84%82%E1%85%A7%E1%86%B7%20%E1%84%8B%E1%85%B5%E1%84%92%E1%85%A2%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5%2062307489c6fb4f51a6d959a42ba4d170/Untitled%202.png)
+![setTimeout ⇒ anonymous ⇒ run 순으로 실행](./image/211213/Untitled2.png)
 
 setTimeout ⇒ anonymous ⇒ run 순으로 실행
 
@@ -85,7 +85,7 @@ setTimeout ⇒ anonymous ⇒ run 순으로 실행
 
 → 동시에 처리될 수 있는 작업들은 최대한 묶어서 넘겨야 시간 절약
 
-![Untitled](%E1%84%92%E1%85%A2%E1%86%A8%E1%84%89%E1%85%B5%E1%86%B7%20%E1%84%80%E1%85%A2%E1%84%82%E1%85%A7%E1%86%B7%20%E1%84%8B%E1%85%B5%E1%84%92%E1%85%A2%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5%2062307489c6fb4f51a6d959a42ba4d170/Untitled%203.png)
+![Untitled](./image/211213/Untitled3.png)
 
 ## 싱글 스레드
 
