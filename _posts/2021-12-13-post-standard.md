@@ -16,7 +16,7 @@ excerpt_separator: "<!--more-->"
 - 특정 언어로 만든 프로그램들을 실행할 수 있는 환경을 뜻함 (자바스크립트 실행기)
 - Node.js는  Chrome V8 Javascript 엔진으로 빌드
 
-![노드의 내부 구조](./image/211213/Untitled 1.png)
+![노드의 내부 구조](./image/211213/Untitled1.png)
 
 노드의 내부 구조
 
