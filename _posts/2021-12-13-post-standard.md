@@ -1,6 +1,10 @@
 ---
 title: "Node.js 교과서 - 핵심 개념 이해하기"
 excerpt_separator: "<!--more-->"
+categories:
+  - Node.js
+tags:
+  - Node.js
 ---
 
 ## 서버
