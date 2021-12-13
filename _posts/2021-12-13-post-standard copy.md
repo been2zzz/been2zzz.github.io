@@ -2,35 +2,9 @@
 title: "Node.js 교과서 - 핵심 개념 이해하기"
 excerpt_separator: "<!--more-->"
 ---
-
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>핵심 개념 이해하기</title><style>
+<style>
 /* cspell:disable-file */
 /* webkit printing magic: print all background colors */
-html {
-	-webkit-print-color-adjust: exact;
-}
-* {
-	box-sizing: border-box;
-	-webkit-print-color-adjust: exact;
-}
-
-html,
-body {
-	margin: 0;
-	padding: 0;
-}
-@media only screen {
-	body {
-		margin: 2em auto;
-		max-width: 900px;
-		color: rgb(55, 53, 47);
-	}
-}
-
-body {
-	line-height: 1.5;
-	white-space: pre-wrap;
-}
 
 a,
 a.visited {
